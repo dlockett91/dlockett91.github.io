@@ -1,13 +1,5 @@
 ---
-title: "Dominique Lockett"
-author:  "Washington University in St. Louis"
-output:
-  html_document:
-    fig_width: 1
+title: "Making a webpage with R Markdown and Github Pages"
+output: html_document
 ---
-
-----
-
-
-
-
+**This** is how you make a _webpage!_
